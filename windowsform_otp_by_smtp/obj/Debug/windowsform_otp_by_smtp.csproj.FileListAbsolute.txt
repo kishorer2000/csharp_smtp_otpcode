@@ -1,0 +1,11 @@
+D:\projects\c# projects workout\windowsform_otp_by_smtp\windowsform_otp_by_smtp\obj\Debug\windowsform_otp_by_smtp.csproj.AssemblyReference.cache
+D:\projects\c# projects workout\windowsform_otp_by_smtp\windowsform_otp_by_smtp\obj\Debug\windowsform_otp_by_smtp.csproj.SuggestedBindingRedirects.cache
+D:\projects\c# projects workout\windowsform_otp_by_smtp\windowsform_otp_by_smtp\obj\Debug\windowsform_otp_by_smtp.OTPVerification.resources
+D:\projects\c# projects workout\windowsform_otp_by_smtp\windowsform_otp_by_smtp\obj\Debug\windowsform_otp_by_smtp.Properties.Resources.resources
+D:\projects\c# projects workout\windowsform_otp_by_smtp\windowsform_otp_by_smtp\obj\Debug\windowsform_otp_by_smtp.csproj.GenerateResource.cache
+D:\projects\c# projects workout\windowsform_otp_by_smtp\windowsform_otp_by_smtp\obj\Debug\windowsform_otp_by_smtp.csproj.CoreCompileInputs.cache
+D:\projects\c# projects workout\windowsform_otp_by_smtp\windowsform_otp_by_smtp\bin\Debug\windowsform_otp_by_smtp.exe.config
+D:\projects\c# projects workout\windowsform_otp_by_smtp\windowsform_otp_by_smtp\bin\Debug\windowsform_otp_by_smtp.exe
+D:\projects\c# projects workout\windowsform_otp_by_smtp\windowsform_otp_by_smtp\bin\Debug\windowsform_otp_by_smtp.pdb
+D:\projects\c# projects workout\windowsform_otp_by_smtp\windowsform_otp_by_smtp\obj\Debug\windowsform_otp_by_smtp.exe
+D:\projects\c# projects workout\windowsform_otp_by_smtp\windowsform_otp_by_smtp\obj\Debug\windowsform_otp_by_smtp.pdb
